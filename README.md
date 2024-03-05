@@ -25,6 +25,6 @@ To install and run this project locally, follow these steps:
     ```
 
 ## Usage
-After installing the project, you can use it by executing the `hello_world.py` script. Here's an example of how to run it:
+After installing the project, you can use it by executing the `helloWorld.py` script. Here's an example of how to run it:
 ```bash
 python helloWorld.py
