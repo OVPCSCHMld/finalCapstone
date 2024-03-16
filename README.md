@@ -37,7 +37,10 @@ cd sentiment-analysis
 
 Ensure you have the 'amazon_product_reviews.csv' file in the project directory.
 
-2. Run the project:
+2. Run the project.
+   ```bash
+   python sentiment_analysis.py
+```
 3. View the sentiment analysis results
  ![image](https://github.com/OVPCSCHMld/finalCapstone/assets/78312248/66d78b8e-a554-4c87-af9c-a7e1d7de2b06)
 
