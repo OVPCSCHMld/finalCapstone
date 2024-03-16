@@ -1,8 +1,7 @@
-# Hello World Project
+# Capstone Project
 
 ## Description
-This project is a simple demonstration of printing "Hello World!" using Python. Although it may seem trivial, printing "Hello World!" is often the first program written 
-by beginners learning a new programming language. It serves as a basic introduction to syntax and structure and is a customary way to verify that a development environment is properly set up.
+This project conducts sentiment analysis on Amazon product reviews using natural language processing (NLP) techniques. By analyzing the sentiments expressed in reviews, businesses can gain valuable insights into customer opinions about their products. This helps businesses understand customer satisfaction levels, identify areas for improvement, and make informed decisions to enhance product quality and customer experience.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,11 +16,16 @@ To install and run this project locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hello_world_project
+   cd sentiment-analysis
     ```
-3. Run the Python script:
+3.Download the spaCy English model:
+```bash
+ python -m spacy download en_core_web_sm
+    ```
+
+4. Run the Python script:
     ```bash
-    python helloWorld.py
+    python sentiment_analysis.py
     ```
 
 ## Usage
