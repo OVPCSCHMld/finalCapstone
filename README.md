@@ -25,7 +25,7 @@ cd sentiment-analysis
  ```bash
    python -m spacy download en_core_web_sm
 ```
-5. Run the project:
+4. Run the project:
   ```bash
  python sentiment_analysis.py
  ```
