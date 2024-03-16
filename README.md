@@ -41,7 +41,7 @@ Ensure you have the 'amazon_product_reviews.csv' file in the project directory.
 3. View the sentiment analysis results
 4. Follow the on-screen instructions to interpret the sentiment analysis of Amazon product reviews.
 
-
+## Credits
 
 
 
