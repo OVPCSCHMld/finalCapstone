@@ -18,6 +18,7 @@ To install and run this project locally, follow these steps:
 
     
 2. Navigate to the project directory:
+   
     ```bash
    cd sentiment-analysis
     
@@ -32,8 +33,10 @@ To install and run this project locally, follow these steps:
 
 
 4.  un the Python script:
+
     ```bash
     python sentiment_analysis.py
+
     ```
 
 
