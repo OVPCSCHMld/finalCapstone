@@ -17,11 +17,14 @@ To install and run this project locally, follow these steps:
 2. Navigate to the project directory:
     ```bash
    cd sentiment-analysis
+    
     ```
+
 3.Download the spaCy English model:
 ```bash
  python -m spacy download en_core_web_sm
     ```
+
 
 4. Run the Python script:
     ```bash
