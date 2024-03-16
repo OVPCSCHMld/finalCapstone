@@ -42,7 +42,7 @@ Ensure you have the 'amazon_product_reviews.csv' file in the project directory.
 4. Follow the on-screen instructions to interpret the sentiment analysis of Amazon product reviews.
 
 ## Credits
-
+Saeedeh Dargahi (melis.drg8@gmail.com):, responsible for implementing sentiment analysis algorithms and project architecture.
 
 
 
