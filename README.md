@@ -31,7 +31,16 @@ cd sentiment-analysis
  ```
 
 ## Usage
-   
+  Once you've installed the project, follow these steps to use it:
+
+1. Load the dataset:
+
+Ensure you have the 'amazon_product_reviews.csv' file in the project directory.
+
+2. Run the project:
+3. View the sentiment analysis results
+4. Follow the on-screen instructions to interpret the sentiment analysis of Amazon product reviews.
+
 
 
 
