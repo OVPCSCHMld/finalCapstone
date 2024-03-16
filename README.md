@@ -23,17 +23,17 @@ To install and run this project locally, follow these steps:
     
     ```
 
-4. Run the Python script:
-    ```bash
-    python sentiment_analysis.py
-    ```
-
-
-3. Download the spaCy English model:
+4. Download the spaCy English model:
 
 ```bash
  python -m spacy download en_core_web_sm
 
+    ```R
+
+
+3. un the Python script:
+    ```bash
+    python sentiment_analysis.py
     ```
 
 
