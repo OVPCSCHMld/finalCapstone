@@ -23,15 +23,15 @@ To install and run this project locally, follow these steps:
     
     ```
 
-4. Download the spaCy English model:
+3. Download the spaCy English model:
 
 ```bash
  python -m spacy download en_core_web_sm
 
-    ```R
+    ```
 
 
-3. un the Python script:
+4.  un the Python script:
     ```bash
     python sentiment_analysis.py
     ```
@@ -39,8 +39,3 @@ To install and run this project locally, follow these steps:
 
 
 
-
-## Usage
-After installing the project, you can use it by executing the `helloWorld.py` script. Here's an example of how to run it:
-```bash
-python helloWorld.py
